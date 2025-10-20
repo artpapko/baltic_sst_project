@@ -7,12 +7,8 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Virtual environment
-venv/
-env/
 .venv/
 
-# Data files (если большие CSV, лучше не хранить в Git)
-*.csv
 
 # MacOS
 .DS_Store
