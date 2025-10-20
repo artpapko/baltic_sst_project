@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Data files (если большие CSV, лучше не хранить в Git)
+*.csv
+
+# MacOS
+.DS_Store
+
+# VS Code
+.vscode/
